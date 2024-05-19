@@ -1,0 +1,7 @@
+Equipments:
+
+Bat
+Ball
+Pads
+Stumps
+Helmets
